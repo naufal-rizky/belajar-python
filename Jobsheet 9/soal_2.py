@@ -1,6 +1,3 @@
-from operator import le
-
-
 p = int(input('p = '))
 lebar = int(input('l = '))
 l = p * lebar
