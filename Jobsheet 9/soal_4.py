@@ -7,4 +7,4 @@ sita = badu - 3
 if sita == 0:
     print('umur badu adalah %d, sedangkan sita belum lahir' %badu)
 else:
-    print('umur badu adalah {} tahun, lebih tua 3 tahun dari sita yang berumur {}' .format(badu, sita)) 
+    print('umur badu adalah {} tahun, lebih tua 3 tahun dari sita yang berumur {} tahun' .format(badu, sita)) 
